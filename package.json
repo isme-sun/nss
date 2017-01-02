@@ -1,6 +1,6 @@
 {
   "name": "nss",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "node static file server",
   "main": "nss.js",
   "scripts": {
